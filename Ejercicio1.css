@@ -1,0 +1,92 @@
+    /* Esto es un CSS no válido */
+
+    /*
+    [if IE]
+        <link rel="stylesheet" href="css/ie.css" type="text/css"/>
+    [endif]
+    */
+
+    .yee-header {}
+
+    .button-primary{}
+
+    .clear-int{}
+
+    .navigation {}
+
+    .atribute {}
+    
+    ul.example-list {}
+
+    div.error {}
+
+    .ads-sample {
+        border-top: 0;
+        font: 100%/1.6 palatino, georgia, serif;
+        padding: 0 1em 2em;
+    }
+
+    .video-id {
+        margin: 0;
+        padding: 1 1 0px;
+        font-size: 0.8em;
+        color: #ebc;
+    }
+
+    p{
+        background: fuchsia;
+        border: 1px solid;
+        -moz-border-radius: 4px;
+        -webkit-border-radius: 4px;
+        border-radius: 4px;
+        color: black;
+        text-align: center;
+        text-indent: 2em;        
+    }
+
+    h1 {
+        background: #fff;
+        color: #444;
+    }
+
+    .test {
+        display: block;
+        height: 100px;
+    }
+
+    h3 {
+        font-weight: bold;
+    }
+
+    .video{
+    margin-top: 1em;
+    }
+
+    h1,h2,h3 {
+      font-weight: normal;
+      line-height: 1.2;
+    }
+
+    @import url(https://www.google.com/css/maia.css);
+
+    html {
+        background: #fff;
+        font-family: "open sans", arial, sans-serif;
+    }
+
+    body {
+        margin: auto;
+        width: 50%;
+    }
+
+    /* Header */
+
+    .adw-header {}
+
+    /* Footer */
+
+    .adw-footer {}
+
+    /* Gallery */
+
+    .adw-gallery {}
